@@ -11,5 +11,4 @@
 - game chưa có màn hình đăng nhập
 - game không có màn hình kết thúc
 - đồ họa còn xấu
-3.2 tự cho điểm
-- em xin nhận 9đ cuối kỳ ạ
+

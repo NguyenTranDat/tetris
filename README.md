@@ -6,8 +6,7 @@
 - game sẽ kết thúc nếu các viên gạch xếp lên đến đỉnh
 - một hàng nếu đủ sẽ tự mất đi và người chơi sẽ được 100 điểm
 - level sẽ tăng theo số điểm người chơi. level tăng thì thời gian rơi của viên gạch cũng tăng
-3. tự nhận xét và cho điểm
-3.1 tự nhận xét
+3. tự nhận xét
 - game chưa có màn hình đăng nhập
 - game không có màn hình kết thúc
 - đồ họa còn xấu
